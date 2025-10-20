@@ -6,7 +6,7 @@
 
 - 📝 My fields of study are Machine Learning, Large Language Models, and AI Agents.
 
-- 📫 Contact me at **berkepgnkl1<qgmail.com**
+- 📫 Contact me at **berkepgnkl1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
